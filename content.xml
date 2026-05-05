@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505224822CXRQXQ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505224822IXZOFA</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Recetas con ciencia: gramos, litros y diversión.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mª Teresa Lamas Delgado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Un proyecto educativo diseñado para enseñar a alumnos de Cuarto de Primaria sobre las unidades de medida de capacidad y masa, aprender a medir con instrumentos cotidianos y comprender textos instructivos como las recetas. 
+Palabras Claves: masa, capacidad, educación primaria, cocina, recetas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non derived work - non commercial 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-nd/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778013972242</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mot3m19y-jnnbm4s1h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Situación de Aprendizaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m19y-jnnbm4s1h</odePageId>
+      <odeBlockId>block-1777629728153-gej0yzvpj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m19y-jnnbm4s1h</odePageId>
+          <odeBlockId>block-1777629728153-gej0yzvpj</odeBlockId>
+          <odeIdeviceId>idevice-1777629728151-ajgfynm0w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong><span style="color: #b96ad9;">¡Aventureros de Internet, oído cocina!</span></strong></span></p>
+<p><span style="font-size: 12pt; color: #f1c40f;"><img src="{{context_path}}/content/resources/mceclip1_1.png" /></span></p>
+<p><span style="font-size: 12pt; color: #f1c40f;">Imagen creada por la autora con DALL-E 3</span></p>
+<p><span style="color: #b96ad9;"><strong><span style="font-size: 14pt;">¡Hola, pequeños chefs!</span></strong></span></p>
+<p>Hoy comenzamos una gran aventura para aprender las unidades de medida de capacidad y masa. Vamos a descubrir lo importante que es conocer especialmente los litros, mililitros, kilogramos y gramos para poder medir correctamente las cantidades en la cocina. Aprenderemos a pesar ingredientes, medir líquidos y entender las recetas para preparar platos deliciosos con precisión. Con cada actividad, comprenderemos mejor cómo las matemáticas nos ayudan en la vida diaria y por qué son necesarias para cocinar de forma ordenada, práctica y divertida.</p>
+<p><span style="color: #3598db;"><strong>¿Listos para empezar?</strong></span></p>
+<p><strong><span style="color: #b96ad9; font-size: 14pt;">¡¡Adelante, equipo de chefs!!</span></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777629728151-ajgfynm0w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #b96ad9;\">¡Aventureros de Internet, oído cocina!</span></strong></span></p>\n<p><span style=\"font-size: 12pt; color: #f1c40f;\"><img src=\"{{context_path}}/content/resources/mceclip1_1.png\" /></span></p>\n<p><span style=\"font-size: 12pt; color: #f1c40f;\">Imagen creada por la autora con DALL-E 3</span></p>\n<p><span style=\"color: #b96ad9;\"><strong><span style=\"font-size: 14pt;\">¡Hola, pequeños chefs!</span></strong></span></p>\n<p>Hoy comenzamos una gran aventura para aprender las unidades de medida de capacidad y masa. Vamos a descubrir lo importante que es conocer especialmente los litros, mililitros, kilogramos y gramos para poder medir correctamente las cantidades en la cocina. Aprenderemos a pesar ingredientes, medir líquidos y entender las recetas para preparar platos deliciosos con precisión. Con cada actividad, comprenderemos mejor cómo las matemáticas nos ayudan en la vida diaria y por qué son necesarias para cocinar de forma ordenada, práctica y divertida.</p>\n<p><span style=\"color: #3598db;\"><strong>¿Listos para empezar?</strong></span></p>\n<p><strong><span style=\"color: #b96ad9; font-size: 14pt;\">¡¡Adelante, equipo de chefs!!</span></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a0-bct0oshha</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a0-bct0oshha</odePageId>
+      <odeBlockId>block-1777620692362-22r9pzfwh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a0-bct0oshha</odePageId>
+          <odeBlockId>block-1777620692362-22r9pzfwh</odeBlockId>
+          <odeIdeviceId>idevice-1777620692359-frjg46u55</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #b96ad9; font-size: 14pt;"><strong>¡Nuestro proyecto: "Recetas con ciencia: gramos, litros y diversión</strong>"</span></p>
+<p><span style="font-size: 14pt;"><strong><span style="color: #3598db;">¡Convirtámonos en grandes chefs!<img src="chef" alt="" /></span></strong> </span>🧑‍🍳👩🏻‍🍳</p>
+<p><span style="font-size: 14pt;"><em><span style="color: #236fa1;">¡Atención, pequeños chefs!</span></em> </span>🍳</p>
+<p>Hoy tenemos una misión muy especial:<strong><span style="color: #b96ad9;"> aprender sobre las unidades de medida de capacidad y masa. </span></strong></p>
+<p>Más adelante nos convertiremos en "chefs" y descubriremos que las matemáticas están presentes en la cocina. </p>
+<p>Crearemos una fantástica guía con presentaciones y vídeos explicativos que explican todo lo relacionado con las unidades de medida de capacidad (litro) y masa (gramos), así como su aplicación en la cocina; atendiendo a cada criterio de evaluación de cada asignatura y pudiéndose compartir con amigos y familiares.</p>
+<p><span style="font-size: 12pt; color: #3598db;"><strong>¡Juntos lograremos que todos aprendamos a cocinar platos saludables compartiendo recetas!</strong></span></p>
+<p><span style="color: #b96ad9;"><strong><span style="font-size: 14pt;">¿Listos para la misión?</span></strong></span></p>
+<p><span style="font-size: 14pt;"><strong><span style="color: #3598db;">¡Manos a la obra, equipo de chefs! </span></strong></span>🍲 🥗 🥖 🥘</p>
+<p><img src="{{context_path}}/content/resources/mceclip0_1.jpg" /></p>
+<p><span style="color: #f1c40f;">  Imagen creada por la autora con DALL-E 3</span></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777620692359-frjg46u55","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #b96ad9; font-size: 14pt;\"><strong>¡Nuestro proyecto: \"Recetas con ciencia: gramos, litros y diversión</strong>\"</span></p>\n<p><span style=\"font-size: 14pt;\"><strong><span style=\"color: #3598db;\">¡Convirtámonos en grandes chefs!<img src=\"chef\" alt=\"\" /></span></strong> </span>🧑‍🍳👩🏻‍🍳</p>\n<p><span style=\"font-size: 14pt;\"><em><span style=\"color: #236fa1;\">¡Atención, pequeños chefs!</span></em> </span>🍳</p>\n<p>Hoy tenemos una misión muy especial:<strong><span style=\"color: #b96ad9;\"> aprender sobre las unidades de medida de capacidad y masa. </span></strong></p>\n<p>Más adelante nos convertiremos en \"chefs\" y descubriremos que las matemáticas están presentes en la cocina. </p>\n<p>Crearemos una fantástica guía con presentaciones y vídeos explicativos que explican todo lo relacionado con las unidades de medida de capacidad (litro) y masa (gramos), así como su aplicación en la cocina; atendiendo a cada criterio de evaluación de cada asignatura y pudiéndose compartir con amigos y familiares.</p>\n<p><span style=\"font-size: 12pt; color: #3598db;\"><strong>¡Juntos lograremos que todos aprendamos a cocinar platos saludables compartiendo recetas!</strong></span></p>\n<p><span style=\"color: #b96ad9;\"><strong><span style=\"font-size: 14pt;\">¿Listos para la misión?</span></strong></span></p>\n<p><span style=\"font-size: 14pt;\"><strong><span style=\"color: #3598db;\">¡Manos a la obra, equipo de chefs! </span></strong></span>🍲 🥗 🥖 🥘</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0_1.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">  Imagen creada por la autora con DALL-E 3</span></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a0-bmbvlfur6</odePageId>
+  <odeParentPageId>page-mot3m1a0-bct0oshha</odeParentPageId>
+  <pageName>1.1. Descripción del Proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. Descripción del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. Descripción del Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.1. Descripción del Proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a0-bmbvlfur6</odePageId>
+      <odeBlockId>block-1777629027720-ra6i4s4mk</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a0-bmbvlfur6</odePageId>
+          <odeBlockId>block-1777629027720-ra6i4s4mk</odeBlockId>
+          <odeIdeviceId>idevice-1777629027718-oqq3glqft</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #000000; font-size: 14pt;"><span title="">Con este </span><strong><a href="https://canva.link/tdxd343kcp5uvuq" style="color: #000000;"><span title=""><span style="color: #b96ad9;">cartel </span></span></a></strong></span><span style="color: #000000; font-size: 14pt;">podrás conocer la descripción del proyecto.</span></p>
+<p><span style="color: #b96ad9;"><strong><span style="color: #3598db;"><img src="{{context_path}}/content/resources/mceclip3_1.jpg" /></span></strong></span><span style="color: #b96ad9;"><strong><span style="color: #3598db;"></span></strong></span></p>
+<p><span style="color: #f1c40f;">Imagen creada por la autora con DALL-E 3</span></p>
+<p><span style="color: #b96ad9;"><strong><span style="color: #3598db;"></span></strong></span><br /></p>
+<p><span style="color: #b96ad9;"><strong><span style="color: #3598db;"></span></strong></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777629027718-oqq3glqft","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #000000; font-size: 14pt;\"><span title=\"\">Con este </span><strong><a href=\"https://canva.link/tdxd343kcp5uvuq\" style=\"color: #000000;\"><span title=\"\"><span style=\"color: #b96ad9;\">cartel </span></span></a></strong></span><span style=\"color: #000000; font-size: 14pt;\">podrás conocer la descripción del proyecto.</span></p>\n<p><span style=\"color: #b96ad9;\"><strong><span style=\"color: #3598db;\"><img src=\"{{context_path}}/content/resources/mceclip3_1.jpg\" /></span></strong></span><span style=\"color: #b96ad9;\"><strong><span style=\"color: #3598db;\"></span></strong></span></p>\n<p><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL-E 3</span></p>\n<p><span style=\"color: #b96ad9;\"><strong><span style=\"color: #3598db;\"></span></strong></span><br /></p>\n<p><span style=\"color: #b96ad9;\"><strong><span style=\"color: #3598db;\"></span></strong></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mot3m1a0-bmbvlfur6</odePageId>
+      <odeBlockId>block-1777629266245-1afqqq1bt</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a0-bmbvlfur6</odePageId>
+          <odeBlockId>block-1777629266245-1afqqq1bt</odeBlockId>
+          <odeIdeviceId>idevice-1777629266243-fqrqbsaia</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt;"><strong><span style="color: #b96ad9;">¡Exploremos el mundo de la capacidad y la masa!</span></strong></span></p>
+<p><img src="{{context_path}}/content/resources/mceclip2_1.jpg" /></p>
+<p><span style="color: #f1c40f;"><strong><span style="font-size: 10pt;">Imagen creada por la autora con DALL·E 3</span></strong></span></p>
+<p>Con esta<span style="font-size: 14pt;" title=""><strong><span style="color: #b96ad9;"><a href="https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5469503240/b38ebf530f39e2053a9dec62cd06e30b/UNIDADES_DE_MEDIDA_DE_CAPACIDAD_y_MASA.pdf?token=2Qw_5K0zN37cV5YtCSiJTixI-1fgzdrCJPs4rVbi_cAVA-A2wYC5N4XAYdwSWszGk4Ue7LxkY2ey8vUbX5gYviQ2Et3hlHDuWDwBQi7Hj128JdHwo6Zggq2zCJqlqS63I98pn7-ta5dJMc0DQk3NpabKLalqwninOUU57msJmdiRPUtwcrq6njgYJbijwOpNRpJWd9shc0X7ZNqq5agVs-Conxq3TCALpy9AXK6HUOt46gX3XzpocWR5lr3pVFasGx00MocczB3M1NxidLBAuSSvFoupO1TEfBHAW5QmE4g=" title="" style="color: #b96ad9;"> presentación y </a></span></strong></span>estos <strong>vídeos</strong><span style="font-size: 14pt;"><strong><span style="color: #b96ad9;"></span></strong></span>(<span style="font-size: 14pt;"><strong><span style="color: #b96ad9;" title=""><a href="https://youtu.be/xwp1jlFZl4Y?si=VWwVoR0H_Y6SYMAD" style="color: #b96ad9;">uno</a><a href="https://youtu.be/xwp1jlFZl4Y?si=VWwVoR0H_Y6SYMAD"> </a>y <a href="https://www.youtube.com/watch?pdlt=1&v=2DTk0jtpiGU" style="color: #b96ad9;">dos</a></span></strong></span>) repasarás las unidades de medida de capacidad y masa con el objetivo de aprender a medir, convertir y utilizar correctamente las unidades de masa y capacidad en situaciones reales. Además se realizarán actividades, resolución de problemas y tareas que requieran la utilización de instrumentos de medida cotidianos. </p>
+<p><span style="color: #f1c40f;">Presentación creada por la autora con PowerPoint</span></p>
+<p>Te invitamos a reflexionar y compartir con tus compañeros:</p>
+<p>- <em><span style="color: #3598db;">Las magnitudes y las unidades de medida de capacidad y masa (múltiplos y submúltiplos). Las unidades principales de medida: capacidad (litro) y masa (gramo). </span></em></p>
+<p><em><span style="color: #3598db;">-  Las conversiones entre unidades de capacidad y masa (por ejemplo, de litros a mililitros o de kg a g).</span></em></p>
+<p><em><span style="color: #3598db;">- Comparaciones, estimaciones y medidas de cantidades usando las unidades adecuadas en diferentes situaciones.</span></em></p>
+<p><em><span style="color: #3598db;">- Resolución de problemas prácticos relacionados capacidad y masa en contextos reales.</span></em></p>
+<p><em><span style="color: #3598db;">- Utilización de instrumentos de medida (como balanza o recipientes graduados) correctamente.</span></em></p>
+<p><em><span style="color: #3598db;">- Reflexión sobre el uso de unidades e instrumentos de medida en la vida cotidiana.</span></em></p>
+<p>Estas ideas servirán como punto de partida para trabajar en grupo y generar un debate enriquecedor. Al compartir nuestras respuestas, aprenderemos juntos sobre el uso de las unidades de capacidad y masa, así como la importancia de los instrumentos de medida en la vida diaria. Además, podremos reflexionar sobre cómo aplicarlos correctamente en distintas situaciones.</p>
+<p>¡Participar te ayudará a conocer más y aportar tus propias ideas al grupo!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777629266243-fqrqbsaia","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\"><strong><span style=\"color: #b96ad9;\">¡Exploremos el mundo de la capacidad y la masa!</span></strong></span></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2_1.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\"><strong><span style=\"font-size: 10pt;\">Imagen creada por la autora con DALL·E 3</span></strong></span></p>\n<p>Con esta<span style=\"font-size: 14pt;\" title=\"\"><strong><span style=\"color: #b96ad9;\"><a href=\"https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5469503240/b38ebf530f39e2053a9dec62cd06e30b/UNIDADES_DE_MEDIDA_DE_CAPACIDAD_y_MASA.pdf?token=2Qw_5K0zN37cV5YtCSiJTixI-1fgzdrCJPs4rVbi_cAVA-A2wYC5N4XAYdwSWszGk4Ue7LxkY2ey8vUbX5gYviQ2Et3hlHDuWDwBQi7Hj128JdHwo6Zggq2zCJqlqS63I98pn7-ta5dJMc0DQk3NpabKLalqwninOUU57msJmdiRPUtwcrq6njgYJbijwOpNRpJWd9shc0X7ZNqq5agVs-Conxq3TCALpy9AXK6HUOt46gX3XzpocWR5lr3pVFasGx00MocczB3M1NxidLBAuSSvFoupO1TEfBHAW5QmE4g=\" title=\"\" style=\"color: #b96ad9;\"> presentación y </a></span></strong></span>estos <strong>vídeos</strong><span style=\"font-size: 14pt;\"><strong><span style=\"color: #b96ad9;\"></span></strong></span>(<span style=\"font-size: 14pt;\"><strong><span style=\"color: #b96ad9;\" title=\"\"><a href=\"https://youtu.be/xwp1jlFZl4Y?si=VWwVoR0H_Y6SYMAD\" style=\"color: #b96ad9;\">uno</a><a href=\"https://youtu.be/xwp1jlFZl4Y?si=VWwVoR0H_Y6SYMAD\"> </a>y <a href=\"https://www.youtube.com/watch?pdlt=1&v=2DTk0jtpiGU\" style=\"color: #b96ad9;\">dos</a></span></strong></span>) repasarás las unidades de medida de capacidad y masa con el objetivo de aprender a medir, convertir y utilizar correctamente las unidades de masa y capacidad en situaciones reales. Además se realizarán actividades, resolución de problemas y tareas que requieran la utilización de instrumentos de medida cotidianos. </p>\n<p><span style=\"color: #f1c40f;\">Presentación creada por la autora con PowerPoint</span></p>\n<p>Te invitamos a reflexionar y compartir con tus compañeros:</p>\n<p>- <em><span style=\"color: #3598db;\">Las magnitudes y las unidades de medida de capacidad y masa (múltiplos y submúltiplos). Las unidades principales de medida: capacidad (litro) y masa (gramo). </span></em></p>\n<p><em><span style=\"color: #3598db;\">-  Las conversiones entre unidades de capacidad y masa (por ejemplo, de litros a mililitros o de kg a g).</span></em></p>\n<p><em><span style=\"color: #3598db;\">- Comparaciones, estimaciones y medidas de cantidades usando las unidades adecuadas en diferentes situaciones.</span></em></p>\n<p><em><span style=\"color: #3598db;\">- Resolución de problemas prácticos relacionados capacidad y masa en contextos reales.</span></em></p>\n<p><em><span style=\"color: #3598db;\">- Utilización de instrumentos de medida (como balanza o recipientes graduados) correctamente.</span></em></p>\n<p><em><span style=\"color: #3598db;\">- Reflexión sobre el uso de unidades e instrumentos de medida en la vida cotidiana.</span></em></p>\n<p>Estas ideas servirán como punto de partida para trabajar en grupo y generar un debate enriquecedor. Al compartir nuestras respuestas, aprenderemos juntos sobre el uso de las unidades de capacidad y masa, así como la importancia de los instrumentos de medida en la vida diaria. Además, podremos reflexionar sobre cómo aplicarlos correctamente en distintas situaciones.</p>\n<p>¡Participar te ayudará a conocer más y aportar tus propias ideas al grupo!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a0-q0mlmzjjz</odePageId>
+  <odeParentPageId>page-mot3m1a0-bct0oshha</odeParentPageId>
+  <pageName>1.2 Kahoots</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2 Kahoots</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2 Kahoots</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a0-q0mlmzjjz</odePageId>
+      <odeBlockId>block-1777653028131-1ap0qpt2g</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a0-q0mlmzjjz</odePageId>
+          <odeBlockId>block-1777653028131-1ap0qpt2g</odeBlockId>
+          <odeIdeviceId>idevice-1777653028130-c0yvq2854</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt; color: #b96ad9;"><span style="color: #000000;">Aquí puedes acceder a varios</span> <strong>kahoots </strong><span style="color: #000000;">que te servirán para repasar lo aprendido: </span></span></p>
+<p><em><strong><span style="color: #3598db;"><span style="color: #000000;">1</span><a href="https://create.kahoot.it/share/unidades-de-medida-de-capacidad/f64df952-5ae0-4f85-975c-312795d56d08" title="" style="color: #3598db;"><span style="color: #000000;">.</span> <span style="font-family: 'arial black', sans-serif;">Capacidad.</span></a></span></strong></em></p>
+<p><em><span style="color: #000000;"><strong>2. </strong></span><span style="font-family: 'arial black', sans-serif;"><a href="https://create.kahoot.it/share/unidades-de-medida-de-capacidad-y-masa/9050bc6d-bf9c-4c9f-99b1-ebd6ec66ab6b" title=""><strong><span style="color: #3598db;">Capacidad y masa</span></strong>.</a></span></em><span style="font-family: 'arial black', sans-serif;"> </span></p>
+<p><img src="{{context_path}}/content/resources/mceclip5.jpg" /></p>
+<p><span style="color: #f1c40f;">Imagen creada por la autora con DALL-E 3</span></p>
+<p><span style="color: #3598db;"><strong><span style="font-size: 14pt;" title="">Ahora debes crear un <a href="https://create.kahoot.it/creator"><span style="color: #b96ad9; font-size: 18pt;" title="">Kahoot</span> </a>para tus compañeros. </span></strong></span></p>
+<p><strong><span style="color: #b96ad9; font-size: 14pt;">¡Manos a la obra campeones!</span></strong></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777653028130-c0yvq2854","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt; color: #b96ad9;\"><span style=\"color: #000000;\">Aquí puedes acceder a varios</span> <strong>kahoots </strong><span style=\"color: #000000;\">que te servirán para repasar lo aprendido: </span></span></p>\n<p><em><strong><span style=\"color: #3598db;\"><span style=\"color: #000000;\">1</span><a href=\"https://create.kahoot.it/share/unidades-de-medida-de-capacidad/f64df952-5ae0-4f85-975c-312795d56d08\" title=\"\" style=\"color: #3598db;\"><span style=\"color: #000000;\">.</span> <span style=\"font-family: 'arial black', sans-serif;\">Capacidad.</span></a></span></strong></em></p>\n<p><em><span style=\"color: #000000;\"><strong>2. </strong></span><span style=\"font-family: 'arial black', sans-serif;\"><a href=\"https://create.kahoot.it/share/unidades-de-medida-de-capacidad-y-masa/9050bc6d-bf9c-4c9f-99b1-ebd6ec66ab6b\" title=\"\"><strong><span style=\"color: #3598db;\">Capacidad y masa</span></strong>.</a></span></em><span style=\"font-family: 'arial black', sans-serif;\"> </span></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip5.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL-E 3</span></p>\n<p><span style=\"color: #3598db;\"><strong><span style=\"font-size: 14pt;\" title=\"\">Ahora debes crear un <a href=\"https://create.kahoot.it/creator\"><span style=\"color: #b96ad9; font-size: 18pt;\" title=\"\">Kahoot</span> </a>para tus compañeros. </span></strong></span></p>\n<p><strong><span style=\"color: #b96ad9; font-size: 14pt;\">¡Manos a la obra campeones!</span></strong></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a1-qpddhc64f</odePageId>
+  <odeParentPageId>page-mot3m1a0-bct0oshha</odeParentPageId>
+  <pageName>1.3 Receta de cocina</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3 Receta de cocina</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3 Receta de cocina</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.3 Receta de cocina</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a1-qpddhc64f</odePageId>
+      <odeBlockId>block-1777656233930-w2u30wkar</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a1-qpddhc64f</odePageId>
+          <odeBlockId>block-1777656233930-w2u30wkar</odeBlockId>
+          <odeIdeviceId>idevice-1777656233928-m6avjcvll</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con estas <span style="font-size: 14pt;"><strong><span style="color: #b96ad9;" title=""><span style="color: #3598db;">presentaciones </span>(<a href="https://www.youtube.com/watch?v=ATY1Ef-onZI">uno </a>y <a href="https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5469503240/7eeef311d5723724463628284c06fbdb/MATEMA_TICAS_EN_LA_COCINA.pdf?token=2Qw_5K0zN37cV5YtCSiJTixI-1fgzdrCJPs4rVbi_cAVA-A2wYC5N4XAYdwSWszGk4Ue7LxkY2ey8vUbX5gYviQ2Et3hlHDuWDwBQi7Hj128JdHwo6Zggq2zCJqlqS63Q-LTqYtkpUrcHee2l4YpyiwYI_qILs_QqIEhZtjmnHgWb8BGDY2q0oKMlQl375Ca4x8VLX2jqvDMrrq_gt8APIii9BwkJqEyILDx0vC0pzJKpafDUDbXZFhSTEUfk2URubXw2qpcBUpzBJGQwL-GdA==">dos</a>), </span></strong><span style="color: #b96ad9;"><span style="color: #000000; font-size: 12pt;"> l</span></span><span style="color: #b96ad9; font-size: 12pt;"><span style="color: #000000;"><span style="font-size: 12pt;">os alu</span>mnos podrán aprender qué es una receta y cómo realizarla aplicando los contenidos aprendidos en un contexto cotidiano. Utilizarán una <span style="font-size: 14pt;"><strong><span style="color: #b96ad9;" title=""><a href="https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5469503240/1869dc9cbcb078223e9e90b13e9ed062/PLANTIILA_RECETA.png?token=2Qw_5K0zN37cV5YtCSiJTixI-1fgzdrCJPs4rVbi_cAVA-A2wYC5N4XAYdwSWszGk4Ue7LxkY2ey8vUbX5gYviQ2Et3hlHDuWDwBQi7Hj128JdHwo6Zggq2zCJqlqS63FJNzrAef4FEhvBtpjtc3mo8ePUDv-hiB_6yLdFWImEEKagabKRRTYZiaNkx_WA8PG64AqPqwW4u_ZE28BxCNR2wcIlnspr20pUb2DkE4ckpdXaGWpLgIDvnVvbzSg4qX">plantilla de receta </a></span></strong></span>, (área de Lengua) con la posibilidad de crear una propia conservando los mismos apartados. T</span></span></span><span style="font-size: 14pt;"><span style="color: #b96ad9; font-size: 12pt;"><span style="color: #000000;">endrán que grabar el proceso en vídeo, integrando así las tecnologías en el aprendizaje, lo que motiva al alumnado, permitiendo compartir sus recetas con el resto de compañeros; así como añadir un dibujo del resultado final (área de Plástica).  Todo esto favorece un aprendizaje activo, motivador y significativo, porque conecta la teoría con la experiencia práctica.</span></span></span></p>
+<p><span style="font-size: 14pt; color: #f1c40f;"><span style="font-size: 12pt;">Presentación 2 creada por la autora con PowerPoint y la plantilla de la receta creada por la autora con Canva.</span></span></p>
+<p><img src="{{context_path}}/content/resources/mceclip7.jpg" /></p>
+<p><span style="color: #f1c40f;">Imagen creada por la autora con DALL-E 3</span></p>
+<p><span style="color: #000000;"> <br />Antes de empezar a cocinar, debéis buscar recetas saludables (área de Conocimiento del Medio) tras visualizar este<a href="https://view.genially.com/58ac77ff44a89913845b373d"><span style="color: #b96ad9; font-size: 14pt;"><strong title=""> genially</strong></span></a></span><span style="color: #000000;">. Cuando encontréis una que os guste, podéis hacerla en casa siguiendo los pasos, pero cambiando lo que queráis según vuestros gustos, los ingredientes que tengáis a mano, el número de comensales, ...</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777656233928-m6avjcvll","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con estas <span style=\"font-size: 14pt;\"><strong><span style=\"color: #b96ad9;\" title=\"\"><span style=\"color: #3598db;\">presentaciones </span>(<a href=\"https://www.youtube.com/watch?v=ATY1Ef-onZI\">uno </a>y <a href=\"https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5469503240/7eeef311d5723724463628284c06fbdb/MATEMA_TICAS_EN_LA_COCINA.pdf?token=2Qw_5K0zN37cV5YtCSiJTixI-1fgzdrCJPs4rVbi_cAVA-A2wYC5N4XAYdwSWszGk4Ue7LxkY2ey8vUbX5gYviQ2Et3hlHDuWDwBQi7Hj128JdHwo6Zggq2zCJqlqS63Q-LTqYtkpUrcHee2l4YpyiwYI_qILs_QqIEhZtjmnHgWb8BGDY2q0oKMlQl375Ca4x8VLX2jqvDMrrq_gt8APIii9BwkJqEyILDx0vC0pzJKpafDUDbXZFhSTEUfk2URubXw2qpcBUpzBJGQwL-GdA==\">dos</a>), </span></strong><span style=\"color: #b96ad9;\"><span style=\"color: #000000; font-size: 12pt;\"> l</span></span><span style=\"color: #b96ad9; font-size: 12pt;\"><span style=\"color: #000000;\"><span style=\"font-size: 12pt;\">os alu</span>mnos podrán aprender qué es una receta y cómo realizarla aplicando los contenidos aprendidos en un contexto cotidiano. Utilizarán una <span style=\"font-size: 14pt;\"><strong><span style=\"color: #b96ad9;\" title=\"\"><a href=\"https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5469503240/1869dc9cbcb078223e9e90b13e9ed062/PLANTIILA_RECETA.png?token=2Qw_5K0zN37cV5YtCSiJTixI-1fgzdrCJPs4rVbi_cAVA-A2wYC5N4XAYdwSWszGk4Ue7LxkY2ey8vUbX5gYviQ2Et3hlHDuWDwBQi7Hj128JdHwo6Zggq2zCJqlqS63FJNzrAef4FEhvBtpjtc3mo8ePUDv-hiB_6yLdFWImEEKagabKRRTYZiaNkx_WA8PG64AqPqwW4u_ZE28BxCNR2wcIlnspr20pUb2DkE4ckpdXaGWpLgIDvnVvbzSg4qX\">plantilla de receta </a></span></strong></span>, (área de Lengua) con la posibilidad de crear una propia conservando los mismos apartados. T</span></span></span><span style=\"font-size: 14pt;\"><span style=\"color: #b96ad9; font-size: 12pt;\"><span style=\"color: #000000;\">endrán que grabar el proceso en vídeo, integrando así las tecnologías en el aprendizaje, lo que motiva al alumnado, permitiendo compartir sus recetas con el resto de compañeros; así como añadir un dibujo del resultado final (área de Plástica).  Todo esto favorece un aprendizaje activo, motivador y significativo, porque conecta la teoría con la experiencia práctica.</span></span></span></p>\n<p><span style=\"font-size: 14pt; color: #f1c40f;\"><span style=\"font-size: 12pt;\">Presentación 2 creada por la autora con PowerPoint y la plantilla de la receta creada por la autora con Canva.</span></span></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip7.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL-E 3</span></p>\n<p><span style=\"color: #000000;\"> <br />Antes de empezar a cocinar, debéis buscar recetas saludables (área de Conocimiento del Medio) tras visualizar este<a href=\"https://view.genially.com/58ac77ff44a89913845b373d\"><span style=\"color: #b96ad9; font-size: 14pt;\"><strong title=\"\"> genially</strong></span></a></span><span style=\"color: #000000;\">. Cuando encontréis una que os guste, podéis hacerla en casa siguiendo los pasos, pero cambiando lo que queráis según vuestros gustos, los ingredientes que tengáis a mano, el número de comensales, ...</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a1-jvyeu8841</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Seguridad</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a1-jvyeu8841</odePageId>
+      <odeBlockId>block-1777658901722-87xjjzepi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a1-jvyeu8841</odePageId>
+          <odeBlockId>block-1777658901722-87xjjzepi</odeBlockId>
+          <odeIdeviceId>idevice-1777658901720-c8pdo3ckp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="color: #b96ad9; font-size: 14pt;">Cuidarse en Internet: ¡Protege tu información!</span></strong></p>
+<p><span style="color: #e03e2d; font-size: 14pt;">¡Tu escudo para navegar seguro! </span></p>
+<p>¡Hola, chicos y chicas! </p>
+<p>¿Sabías que internet es como un mundo gigante lleno de cosas interesantes? Pero, como en cualquier aventura, es importante saber cómo cuidarnos.</p>
+<p>En esta misión aprenderemos a usar internet de forma segura, como si fuéramos detectives digitales.</p>
+<p>Vamos a crear contraseñas difíciles de adivinar, aprender a detectar cosas peligrosas y descubrir cómo mantener nuestros datos personales protegidos.</p>
+<p><span style="font-size: 14pt;"><strong><span style="color: #b96ad9;">¡Prepárate para convertirte en un experto en seguridad online! </span></strong></span></p>
+<p>Cuidado de la información</p>
+<p>🌐 Internet está lleno de juegos, vídeos y cosas nuevas para aprender, pero también tenemos que saber cómo protegernos mientras lo usamos. Además, aprenderemos qué hacer si vemos algo raro o que no nos gusta.</p>
+<p><strong><span style="color: #3598db;"><span style="font-size: 12pt;">¡Con estos consejos, seréis expertos navegantes y usaréis internet de forma segura!</span> </span></strong></p>
+<p> <img src="{{context_path}}/content/resources/mceclip8.jpg" /></p>
+<p><span style="color: #f1c40f;">Imagen creada por la autora con DALL·E 3</span></p>
+<p><span style="color: #b96ad9; font-size: 14pt;" title="">Aquí tenéis una<a href="https://canva.link/nnnbo5lfkyqf99b" title=""> <strong>infografía</strong> </a>sobre protección de tus datos personales y derechos digitales.</span></p>
+<p><img src="{{context_path}}/content/resources/mceclip9.png" /><img src="{{context_path}}/content/resources/mceclip10.png" /><span style="color: #f1c40f;">Infografía creada por la autora con Canva y Adobe Firefly</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777658901720-c8pdo3ckp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"color: #b96ad9; font-size: 14pt;\">Cuidarse en Internet: ¡Protege tu información!</span></strong></p>\n<p><span style=\"color: #e03e2d; font-size: 14pt;\">¡Tu escudo para navegar seguro! </span></p>\n<p>¡Hola, chicos y chicas! </p>\n<p>¿Sabías que internet es como un mundo gigante lleno de cosas interesantes? Pero, como en cualquier aventura, es importante saber cómo cuidarnos.</p>\n<p>En esta misión aprenderemos a usar internet de forma segura, como si fuéramos detectives digitales.</p>\n<p>Vamos a crear contraseñas difíciles de adivinar, aprender a detectar cosas peligrosas y descubrir cómo mantener nuestros datos personales protegidos.</p>\n<p><span style=\"font-size: 14pt;\"><strong><span style=\"color: #b96ad9;\">¡Prepárate para convertirte en un experto en seguridad online! </span></strong></span></p>\n<p>Cuidado de la información</p>\n<p>🌐 Internet está lleno de juegos, vídeos y cosas nuevas para aprender, pero también tenemos que saber cómo protegernos mientras lo usamos. Además, aprenderemos qué hacer si vemos algo raro o que no nos gusta.</p>\n<p><strong><span style=\"color: #3598db;\"><span style=\"font-size: 12pt;\">¡Con estos consejos, seréis expertos navegantes y usaréis internet de forma segura!</span> </span></strong></p>\n<p> <img src=\"{{context_path}}/content/resources/mceclip8.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL·E 3</span></p>\n<p><span style=\"color: #b96ad9; font-size: 14pt;\" title=\"\">Aquí tenéis una<a href=\"https://canva.link/nnnbo5lfkyqf99b\" title=\"\"> <strong>infografía</strong> </a>sobre protección de tus datos personales y derechos digitales.</span></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip9.png\" /><img src=\"{{context_path}}/content/resources/mceclip10.png\" /><span style=\"color: #f1c40f;\">Infografía creada por la autora con Canva y Adobe Firefly</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a1-n21y5kbaf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Herramientas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a1-n21y5kbaf</odePageId>
+      <odeBlockId>block-1777825092159-rng2awphl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a1-n21y5kbaf</odePageId>
+          <odeBlockId>block-1777825092159-rng2awphl</odeBlockId>
+          <odeIdeviceId>idevice-1777825092158-sqxrg6m6a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong><span style="color: #b96ad9;">¡¡Adelante chefs!!</span></strong></span></p>
+<p><span style="color: #3598db;">¡Atención, futuros grandes chefs!</span>👨‍🍳👩‍🍳</p>
+<p><img src="{{context_path}}/content/resources/mceclip12.jpg" /><span style="color: #f1c40f;">Imagen creada por la autora con DALL-E 3</span></p>
+<p>Para explorar en el mundo de la cocina, usaremos herramientas mágicas que nos ayudarán a aprender más sobre recetas saludables con medidas de capacidad y masa. Desde tabletas y ordenadores para jugar y descubrir, hasta cuadernos llenos de actividades, escaleras de unidades de medidas, flipbooks, dibujos y colores. </p>
+<p>¡Con estas herramientas, aprender será divertido y emocionante! 🌟</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777825092158-sqxrg6m6a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #b96ad9;\">¡¡Adelante chefs!!</span></strong></span></p>\n<p><span style=\"color: #3598db;\">¡Atención, futuros grandes chefs!</span>👨‍🍳👩‍🍳</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip12.jpg\" /><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL-E 3</span></p>\n<p>Para explorar en el mundo de la cocina, usaremos herramientas mágicas que nos ayudarán a aprender más sobre recetas saludables con medidas de capacidad y masa. Desde tabletas y ordenadores para jugar y descubrir, hasta cuadernos llenos de actividades, escaleras de unidades de medidas, flipbooks, dibujos y colores. </p>\n<p>¡Con estas herramientas, aprender será divertido y emocionante! 🌟</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a1-hpq897k3z</odePageId>
+  <odeParentPageId>page-mot3m1a1-n21y5kbaf</odeParentPageId>
+  <pageName>3.1 Sesiones del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1 Sesiones del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1 Sesiones del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.1 Sesiones del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a1-hpq897k3z</odePageId>
+      <odeBlockId>block-1777826204578-qa54kaik2</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a1-hpq897k3z</odePageId>
+          <odeBlockId>block-1777826204578-qa54kaik2</odeBlockId>
+          <odeIdeviceId>idevice-1777826204577-6ne3fts7f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong><span style="color: #b96ad9;">¡Aventura para los Pequeños Chefs! </span></strong></span>🧑‍🍳</p>
+<p><span style="color: #3598db;">¡Bienvenidos al <span style="color: #2dc26b;"><strong>taller de instrumentos de medida </strong>y<strong> creación de flipbooks </strong></span>sobre las unidades de medida de capacidad y masa<span style="color: #000000;"><span style="color: #3598db;">! </span></span></span></p>
+<p>Estas actividades sobre las unidades de medida de capacidad y masa permiten a los niños comprender mejor qué son las magnitudes y cómo se utilizan en la vida diaria. A través de ejemplos y explicaciones, aprenden a identificar unidades como el kilogramo, gramo, litro y mililitro, así como a entender sus equivalencias y realizar conversiones entre ellas.</p>
+<p>Además, favorecen el <strong><span style="color: #2dc26b;">desarrollo de habilidades matemáticas</span></strong> como el cálculo, la comparación de cantidades y la resolución de problemas. También ayudan a relacionar estos contenidos con situaciones reales, midiendo ingredientes en recetas o utilizando instrumentos de medida.</p>
+<p>La utilidad de estas actividades radica en que <strong><span style="color: #2dc26b;">facilitan un aprendizaje visual y significativo,</span></strong> haciendo más comprensibles conceptos abstractos.</p>
+<p>Sus principales objetivos son que el alumnado reconozca las unidades de medida, sepa utilizarlas correctamente, realice conversiones entre ellas y valore la importancia de las <span style="color: #000000;">medidas en la vida cotidiana, desarrollando al mismo tiempo el <span style="color: #2dc26b;"><strong>razonamiento lógico y la autonomía.</strong></span></span></p>
+<p><span style="font-size: 18pt;"><strong><span style="color: #b96ad9;">¡Vamos allá!💪</span></strong></span></p>
+<p><img src="{{context_path}}/content/resources/mceclip20.jpg" /></p>
+<p><span style="color: #f1c40f;">Imagen creada por la autora con DALL-E 3</span></p>
+<p><img src="{{context_path}}/content/resources/mceclip14.png" width="243" height="418" /><img src="{{context_path}}/content/resources/mceclip15.png" width="247" height="422" /><img src="{{context_path}}/content/resources/mceclip17.png" width="257" height="418" /></p>
+<p><span style="color: #f1c40f;">Fli</span><span style="color: #f1c40f;">pbook obtenido en Pinterest.  </span></p>
+<p><strong><span style="color: #b96ad9;"><a href="https://padlet.com/telamas8/recetas-con-ciencia-gramos-litros-y-diversion-4td42nadzhw4m7ty" title="" style="color: #b96ad9;">Aquí </a>t</span></strong>enéis el <strong><span style="color: #e67e23;">primer enlace </span></strong>que es un resumen estructurado de algunas de las actividades que vamos a realizar. </p>
+<p>Se recopilan materiales digitales como presentaciones de <strong>Power Point, vídeos explicativos, una plantilla para escribir una receta, juegos interactivos como los kahoots sobre capacidad y masa adaptados al nivel de 4º de Primaria.</strong> Estos recursos están categorizados y estructurados para garantizar un aprendizaje significativo, fomentando la autonomía y el acceso sencillo a información de calidad.</p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip18.jpg" /></p>
+<p><span style="color: #f1c40f;">Actividad creada por la autora con Padlet.</span></p>
+<p><a href="https://www.symbaloo.com/home/mix/13eOhRQEei"><strong><span style="color: #b96ad9;" title="">Aquí </span></strong></a>tenéis el <strong><span style="color: #e67e23;">segundo enlace</span></strong> donde el profesor, aunque también el alumnado, puede ver las diferentes aplicaciones que podrá utilizar diariamente.</p>
+<p>Ahora, a través de un <em><strong>mosaico interactivo</strong></em>, los alumnos podrán acceder de manera rápida y sencilla a <strong>materiales educativos, actividades interactivas, vídeos y herramientas como Canva y Kahoots</strong>, diseñados para trabajar las unidades de medida de capacidad y masa y aprendizaje lúdico. Esta organización facilita el acceso, fomenta la autonomía en el aprendizaje y asegura que los recursos estén adaptados a las necesidades y niveles de los alumnos. </p>
+<p><img src="{{context_path}}/content/resources/mceclip21.jpg" /></p>
+<p><span style="color: #f1c40f;">Cuadro de aplicaciones creado por la autora con Symbaloo.</span></p>
+<p>De esta manera, ambos elementos se complementan entre sí: el primero garantiza la calidad y pertinencia de los recursos que se emplearán en la SdA <strong>"Recetas con ciencia: gramos, litros y diversión"</strong>, mientras que el segundo ofrece una organización visual e interactiva que facilita el acceso y mejora la experiencia tanto del alumnado como del profesorado. En conjunto, favorecen un aprendizaje estructurado, dinámico y ajustado a las necesidades de los estudiantes.</p>
+<p>Asimismo, esta combinación impulsa la autonomía del alumnado, permitiéndoles explorar los recursos a su propio ritmo dentro de un entorno organizado y seguro. Para el docente, supone una forma eficaz de gestionar las herramientas, asegurando su disponibilidad y actualización en un formato atractivo. En el contexto de "Recetas con ciencia: gramos, litros y diversión", esta organización contribuye a <strong><span style="color: #2dc26b;">conectar los contenidos teóricos </span></strong>(como el sistema de unidades de medida) <span style="color: #2dc26b;"><strong>con actividades prácticas e interactivas que promueven un aprendizaje significativo</strong></span> a través de la conversión de medidas y su aplicación en la elaboración de una receta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777826204577-6ne3fts7f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #b96ad9;\">¡Aventura para los Pequeños Chefs! </span></strong></span>🧑‍🍳</p>\n<p><span style=\"color: #3598db;\">¡Bienvenidos al <span style=\"color: #2dc26b;\"><strong>taller de instrumentos de medida </strong>y<strong> creación de flipbooks </strong></span>sobre las unidades de medida de capacidad y masa<span style=\"color: #000000;\"><span style=\"color: #3598db;\">! </span></span></span></p>\n<p>Estas actividades sobre las unidades de medida de capacidad y masa permiten a los niños comprender mejor qué son las magnitudes y cómo se utilizan en la vida diaria. A través de ejemplos y explicaciones, aprenden a identificar unidades como el kilogramo, gramo, litro y mililitro, así como a entender sus equivalencias y realizar conversiones entre ellas.</p>\n<p>Además, favorecen el <strong><span style=\"color: #2dc26b;\">desarrollo de habilidades matemáticas</span></strong> como el cálculo, la comparación de cantidades y la resolución de problemas. También ayudan a relacionar estos contenidos con situaciones reales, midiendo ingredientes en recetas o utilizando instrumentos de medida.</p>\n<p>La utilidad de estas actividades radica en que <strong><span style=\"color: #2dc26b;\">facilitan un aprendizaje visual y significativo,</span></strong> haciendo más comprensibles conceptos abstractos.</p>\n<p>Sus principales objetivos son que el alumnado reconozca las unidades de medida, sepa utilizarlas correctamente, realice conversiones entre ellas y valore la importancia de las <span style=\"color: #000000;\">medidas en la vida cotidiana, desarrollando al mismo tiempo el <span style=\"color: #2dc26b;\"><strong>razonamiento lógico y la autonomía.</strong></span></span></p>\n<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #b96ad9;\">¡Vamos allá!💪</span></strong></span></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip20.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL-E 3</span></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip14.png\" width=\"243\" height=\"418\" /><img src=\"{{context_path}}/content/resources/mceclip15.png\" width=\"247\" height=\"422\" /><img src=\"{{context_path}}/content/resources/mceclip17.png\" width=\"257\" height=\"418\" /></p>\n<p><span style=\"color: #f1c40f;\">Fli</span><span style=\"color: #f1c40f;\">pbook obtenido en Pinterest.  </span></p>\n<p><strong><span style=\"color: #b96ad9;\"><a href=\"https://padlet.com/telamas8/recetas-con-ciencia-gramos-litros-y-diversion-4td42nadzhw4m7ty\" title=\"\" style=\"color: #b96ad9;\">Aquí </a>t</span></strong>enéis el <strong><span style=\"color: #e67e23;\">primer enlace </span></strong>que es un resumen estructurado de algunas de las actividades que vamos a realizar. </p>\n<p>Se recopilan materiales digitales como presentaciones de <strong>Power Point, vídeos explicativos, una plantilla para escribir una receta, juegos interactivos como los kahoots sobre capacidad y masa adaptados al nivel de 4º de Primaria.</strong> Estos recursos están categorizados y estructurados para garantizar un aprendizaje significativo, fomentando la autonomía y el acceso sencillo a información de calidad.</p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip18.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">Actividad creada por la autora con Padlet.</span></p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13eOhRQEei\"><strong><span style=\"color: #b96ad9;\" title=\"\">Aquí </span></strong></a>tenéis el <strong><span style=\"color: #e67e23;\">segundo enlace</span></strong> donde el profesor, aunque también el alumnado, puede ver las diferentes aplicaciones que podrá utilizar diariamente.</p>\n<p>Ahora, a través de un <em><strong>mosaico interactivo</strong></em>, los alumnos podrán acceder de manera rápida y sencilla a <strong>materiales educativos, actividades interactivas, vídeos y herramientas como Canva y Kahoots</strong>, diseñados para trabajar las unidades de medida de capacidad y masa y aprendizaje lúdico. Esta organización facilita el acceso, fomenta la autonomía en el aprendizaje y asegura que los recursos estén adaptados a las necesidades y niveles de los alumnos. </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip21.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">Cuadro de aplicaciones creado por la autora con Symbaloo.</span></p>\n<p>De esta manera, ambos elementos se complementan entre sí: el primero garantiza la calidad y pertinencia de los recursos que se emplearán en la SdA <strong>\"Recetas con ciencia: gramos, litros y diversión\"</strong>, mientras que el segundo ofrece una organización visual e interactiva que facilita el acceso y mejora la experiencia tanto del alumnado como del profesorado. En conjunto, favorecen un aprendizaje estructurado, dinámico y ajustado a las necesidades de los estudiantes.</p>\n<p>Asimismo, esta combinación impulsa la autonomía del alumnado, permitiéndoles explorar los recursos a su propio ritmo dentro de un entorno organizado y seguro. Para el docente, supone una forma eficaz de gestionar las herramientas, asegurando su disponibilidad y actualización en un formato atractivo. En el contexto de \"Recetas con ciencia: gramos, litros y diversión\", esta organización contribuye a <strong><span style=\"color: #2dc26b;\">conectar los contenidos teóricos </span></strong>(como el sistema de unidades de medida) <span style=\"color: #2dc26b;\"><strong>con actividades prácticas e interactivas que promueven un aprendizaje significativo</strong></span> a través de la conversión de medidas y su aplicación en la elaboración de una receta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a2-xc92mlg6n</odePageId>
+  <odeParentPageId>page-mot3m1a1-n21y5kbaf</odeParentPageId>
+  <pageName>3.2 Producto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2 Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2 Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a2-xc92mlg6n</odePageId>
+      <odeBlockId>block-1777832056732-7u7007740</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a2-xc92mlg6n</odePageId>
+          <odeBlockId>block-1777832056732-7u7007740</odeBlockId>
+          <odeIdeviceId>idevice-1777832056729-i2du67anf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #3598db;">Para el desarrollo del<strong> <span style="color: #b96ad9;">producto final </span></strong>se propone el uso de dos herramientas digitales: </span><span style="font-size: 14pt; color: #b96ad9;"><strong>Canva e Inshot.</strong></span></p>
+<p>De este modo, ambas herramientas <strong><span style="color: #3598db;">se complementan eficazmente</span>:</strong><span style="color: #b96ad9;"><strong> Canva</strong></span> permite elaborar la receta por escrito de forma clara, visual y organizada, asegurando la calidad y presentación de los contenidos, mientras que<span style="color: #b96ad9;"><strong> InShot</strong> </span>facilita la creación de un vídeo dinámico que recoge el proceso de elaboración, aportando un componente práctico e interactivo. En conjunto, favorecen una experiencia de aprendizaje más completa, estructurada y atractiva tanto para el alumnado como para el docente.</p>
+<p>La combinación de<span style="color: #b96ad9;"><strong> Canva e Inshot </strong></span>permite un aprendizaje significativo y adaptado para Cuarto de Primaria.</p>
+<p>Además, esta combinación <strong><span style="color: #b96ad9;">f<strong>omenta </strong>la creatividad del alumnado</span></strong>, ya que pueden improvisar en el diseño de la receta : primero redactándola en Canva y, después, representándola en formato audiovisual con InShot. Para el profesorado, supone una forma eficaz y divertida de organizar y evaluar el trabajo, garantizando que los materiales estén bien presentados y sean accesibles. </p>
+<p><span style="color: #b96ad9;"><strong>Canva</strong></span> ofrece una <span style="color: #000000;">plantilla ya preparada </span>con posibilidad de crear una propia con un diseño  propio y atractivo sin conocimientos técnicos, lo que facilita que el alumnado se centre en el contenido sin empezar desde cero; siendo su uso muy intuitivo con gran variedad de recursos visuales. Canva destaca porque combina <strong><span style="color: #3598db;">facilidad de uso, recursos visuales y resultados atractivos</span></strong>, algo que no suelen ofrecer otras herramientas de forma tan completa.</p>
+<p>Mientras <span style="color: #b96ad9;"><strong>Inshot </strong></span><span style="color: #000000;">permite grabar, editar de forma rápida e intuitiva incluyendo música, texto, efectos y transiciones en un solo lugar, evitando usar varias apps. InShot destaca porque es <strong><span style="color: #3598db;">rápido, accesible </span></strong>y pensado para crear contenido audiovisual completo desde el móvil.</span></p>
+<p><span style="color: #000000;">Tanto<strong><span style="color: #b96ad9;"> Canva como Inshot </span></strong>garantizan un enfoque equilibrado que combina creatividad, interacción y evaluación eficaz, adaptándose a las características y necesidades del alumno, y fomentando su participación.</span></p>
+<table border="1" style="width: 100.049%;">
+<tbody>
+<tr>
+<td style="width: 49.9157%;"><img src="{{context_path}}/content/resources/mceclip22.jpg" /></td>
+<td style="width: 49.9157%;"><img src="{{context_path}}/content/resources/mceclip25.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<p><span style="color: #f1c40f;">Imágenes creadas por la autora con DALL-E 3</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777832056729-i2du67anf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #3598db;\">Para el desarrollo del<strong> <span style=\"color: #b96ad9;\">producto final </span></strong>se propone el uso de dos herramientas digitales: </span><span style=\"font-size: 14pt; color: #b96ad9;\"><strong>Canva e Inshot.</strong></span></p>\n<p>De este modo, ambas herramientas <strong><span style=\"color: #3598db;\">se complementan eficazmente</span>:</strong><span style=\"color: #b96ad9;\"><strong> Canva</strong></span> permite elaborar la receta por escrito de forma clara, visual y organizada, asegurando la calidad y presentación de los contenidos, mientras que<span style=\"color: #b96ad9;\"><strong> InShot</strong> </span>facilita la creación de un vídeo dinámico que recoge el proceso de elaboración, aportando un componente práctico e interactivo. En conjunto, favorecen una experiencia de aprendizaje más completa, estructurada y atractiva tanto para el alumnado como para el docente.</p>\n<p>La combinación de<span style=\"color: #b96ad9;\"><strong> Canva e Inshot </strong></span>permite un aprendizaje significativo y adaptado para Cuarto de Primaria.</p>\n<p>Además, esta combinación <strong><span style=\"color: #b96ad9;\">f<strong>omenta </strong>la creatividad del alumnado</span></strong>, ya que pueden improvisar en el diseño de la receta : primero redactándola en Canva y, después, representándola en formato audiovisual con InShot. Para el profesorado, supone una forma eficaz y divertida de organizar y evaluar el trabajo, garantizando que los materiales estén bien presentados y sean accesibles. </p>\n<p><span style=\"color: #b96ad9;\"><strong>Canva</strong></span> ofrece una <span style=\"color: #000000;\">plantilla ya preparada </span>con posibilidad de crear una propia con un diseño  propio y atractivo sin conocimientos técnicos, lo que facilita que el alumnado se centre en el contenido sin empezar desde cero; siendo su uso muy intuitivo con gran variedad de recursos visuales. Canva destaca porque combina <strong><span style=\"color: #3598db;\">facilidad de uso, recursos visuales y resultados atractivos</span></strong>, algo que no suelen ofrecer otras herramientas de forma tan completa.</p>\n<p>Mientras <span style=\"color: #b96ad9;\"><strong>Inshot </strong></span><span style=\"color: #000000;\">permite grabar, editar de forma rápida e intuitiva incluyendo música, texto, efectos y transiciones en un solo lugar, evitando usar varias apps. InShot destaca porque es <strong><span style=\"color: #3598db;\">rápido, accesible </span></strong>y pensado para crear contenido audiovisual completo desde el móvil.</span></p>\n<p><span style=\"color: #000000;\">Tanto<strong><span style=\"color: #b96ad9;\"> Canva como Inshot </span></strong>garantizan un enfoque equilibrado que combina creatividad, interacción y evaluación eficaz, adaptándose a las características y necesidades del alumno, y fomentando su participación.</span></p>\n<table border=\"1\" style=\"width: 100.049%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9157%;\"><img src=\"{{context_path}}/content/resources/mceclip22.jpg\" /></td>\n<td style=\"width: 49.9157%;\"><img src=\"{{context_path}}/content/resources/mceclip25.jpg\" /></td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"color: #f1c40f;\">Imágenes creadas por la autora con DALL-E 3</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a2-dyujt8vdm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Guía didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a2-dyujt8vdm</odePageId>
+      <odeBlockId>block-1777843913660-nxodm5s2c</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a2-dyujt8vdm</odePageId>
+          <odeBlockId>block-1777843913660-nxodm5s2c</odeBlockId>
+          <odeIdeviceId>idevice-1777843913659-szwvcs29u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong><span style="color: #b96ad9;">¿Preparados para convertiros en super chefs?🌟</span></strong></span></p>
+<p><strong><span style="color: #3598db;">¡Genios de la cocina, ha llegado el momento de comprobar cuánto hemos aprendido! 🌟</span></strong> </p>
+<p>Vamos a conseguir puntos superando retos importantes: ordenar unidades de medida de mayor a menor, pasar de una unidad de medida a otra, sumar y restar distintas unidades de medida, reconocer platos saludables, reconocer cúal es la unidad de medida más adecuada para medir determinadas capacidades y masas, ...Cada punto representa un paso más para convertirnos en un chef Estrella Michelin.</p>
+<p><img src="{{context_path}}/content/resources/mceclip27.jpg" /></p>
+<p><span style="color: #f1c40f;">Imagen creada por la autora con DALL·E 3</span></p>
+<p><span style="color: #3598db;"><strong>¡Vamos, juntos podemos lograrlo!</strong></span></p>
+<p>Aquí tenéis <em><strong>los criterios de evaluación relacionados con las tareas:</strong></em></p>
+<p><img src="{{context_path}}/content/resources/mceclip29.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip30.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip32.png" /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843913659-szwvcs29u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #b96ad9;\">¿Preparados para convertiros en super chefs?🌟</span></strong></span></p>\n<p><strong><span style=\"color: #3598db;\">¡Genios de la cocina, ha llegado el momento de comprobar cuánto hemos aprendido! 🌟</span></strong> </p>\n<p>Vamos a conseguir puntos superando retos importantes: ordenar unidades de medida de mayor a menor, pasar de una unidad de medida a otra, sumar y restar distintas unidades de medida, reconocer platos saludables, reconocer cúal es la unidad de medida más adecuada para medir determinadas capacidades y masas, ...Cada punto representa un paso más para convertirnos en un chef Estrella Michelin.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip27.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL·E 3</span></p>\n<p><span style=\"color: #3598db;\"><strong>¡Vamos, juntos podemos lograrlo!</strong></span></p>\n<p>Aquí tenéis <em><strong>los criterios de evaluación relacionados con las tareas:</strong></em></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip29.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip30.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip32.png\" /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a2-7rpclcf14</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Mapa conceptual</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Mapa conceptual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Mapa conceptual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a2-7rpclcf14</odePageId>
+      <odeBlockId>block-1777845918555-1c321wccz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a2-7rpclcf14</odePageId>
+          <odeBlockId>block-1777845918555-1c321wccz</odeBlockId>
+          <odeIdeviceId>idevice-1777845918554-ciznaon6e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong><span style="color: #b96ad9;">¡¡En busca de la receta perfecta!!</span></strong></span> 🕵️</p>
+<p><strong><span style="color: #3598db;">¡Exploradores, hemos encontrado un mapa magnífico! </span></strong></p>
+<p><span style="color: #3598db;"><em>Este mapa os guiará por el camino para encontrar una receta fabulosa. </em></span>Siguiendo las pistas, podréis descubrir cuáles son las unidades de medida de capacidad y masa, cómo pasar de una a otra, cómo resolver problemas matemáticos con dichas unidades, cómo medir con los instrumentos de medida oportunos... Cada reto en el mapa nos llevará a nuevos conocimientos y aventuras que nos acercarán a la receta más adecuada. </p>
+<p><img src="{{context_path}}/content/resources/mceclip33.jpg" /></p>
+<p><span style="color: #f1c40f;">Imagen creada por la autora con DALL·E 3</span></p>
+<p><strong><span style="color: #3598db;">¡Pensad y encontraréis la mejor receta! </span></strong></p>
+<p><a href="https://canva.link/wdqregi5zhdfcoz" title=""><strong><span style="color: #b96ad9;">Aquí</span></strong> </a>podéis ver el mapa:</p>
+<p><img src="{{context_path}}/content/resources/mceclip34.jpg" /><span style="color: #f1c40f;">Mapa mental creado por la autora con Canva</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777845918554-ciznaon6e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #b96ad9;\">¡¡En busca de la receta perfecta!!</span></strong></span> 🕵️</p>\n<p><strong><span style=\"color: #3598db;\">¡Exploradores, hemos encontrado un mapa magnífico! </span></strong></p>\n<p><span style=\"color: #3598db;\"><em>Este mapa os guiará por el camino para encontrar una receta fabulosa. </em></span>Siguiendo las pistas, podréis descubrir cuáles son las unidades de medida de capacidad y masa, cómo pasar de una a otra, cómo resolver problemas matemáticos con dichas unidades, cómo medir con los instrumentos de medida oportunos... Cada reto en el mapa nos llevará a nuevos conocimientos y aventuras que nos acercarán a la receta más adecuada. </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip33.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL·E 3</span></p>\n<p><strong><span style=\"color: #3598db;\">¡Pensad y encontraréis la mejor receta! </span></strong></p>\n<p><a href=\"https://canva.link/wdqregi5zhdfcoz\" title=\"\"><strong><span style=\"color: #b96ad9;\">Aquí</span></strong> </a>podéis ver el mapa:</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip34.jpg\" /><span style=\"color: #f1c40f;\">Mapa mental creado por la autora con Canva</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a2-r8bo3u2x9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a2-r8bo3u2x9</odePageId>
+      <odeBlockId>block-1777911798512-ewfw28gxl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a2-r8bo3u2x9</odePageId>
+          <odeBlockId>block-1777911798512-ewfw28gxl</odeBlockId>
+          <odeIdeviceId>idevice-1777911798509-x3vo9bmp9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="color: #b96ad9;">¡Superchefs en Acción!</span></strong></p>
+<p><strong><span style="color: #3598db;">¡¡Es el momento de demostrar lo que hemos aprendido!!</span></strong></p>
+<p><strong><span style="color: #b96ad9;">¡El Certificado de SUPER CHEFS! 🧑‍🍳</span></strong></p>
+<p>Organizaremos un <span style="color: #b96ad9;"><strong>coloquio en grupo </strong></span>en el que compartiremos distintas ideas de recetas saludables, procurando aportar <span style="color: #000000;"><em><strong>propuestas variadas sin repetir,</strong> </em></span>que luego serán compartidas en TEAMS, a modo de <span style="color: #b96ad9;"><strong>recetario online</strong></span>, con el resto de compañeros. Durante la conversación, también reflexionaremos sobre la importancia de calcular y medir con precisión las cantidades de los ingredientes, ya que esto influye tanto en el resultado final de la receta como en el equilibrio nutricional de los platos. Finalmente, cada alumno realizará su receta, se grabará realizándola y, si supera dicho reto, recibirá un diploma de<strong><span style="color: #e03e2d;"> "SUPER CHEF".</span></strong></p>
+<p><img src="{{context_path}}/content/resources/mceclip37.jpg" /></p>
+<p><span style="color: #f1c40f;">Imagen creada por la autora con DALL·E 3</span></p>
+<p><span style="font-size: 18pt;"><strong><span style="color: #b96ad9;">¡¡Ánimo chefs!!</span></strong></span></p>
+<p>En este proyecto, el alumnado de Cuarto de Primaria trabajará contenidos clave para su <strong><span style="color: #3598db;">desarrollo global,</span></strong> destacando la presencia de las matemáticas en la cocina. Se llevará a cabo en un entorno de <strong><span style="color: #3598db;">aprendizaje activo y significativo</span>,</strong> utilizando metodologías diversas que promueven la <span style="color: #b96ad9;"><strong>participación de todos </strong><span style="color: #000000;">y la </span><strong>inclusión.</strong></span> La evaluación será continua y se apoyará en distintos instrumentos con el fin de obtener una visión completa del progreso y aprendizaje de cada estudiante.</p>
+<p>Para valorar las actividades y tareas desarrolladas, se emplearán dos herramientas: <span style="color: #2dc26b;"><strong>una rúbrica y una diana de evaluación</strong></span>, que el alumnado deberá completar en su cuaderno. Estas permitirán analizar tanto sus destrezas prácticas como su grado de implicación y su capacidad de reflexión sobre lo aprendido.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911798509-x3vo9bmp9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"color: #b96ad9;\">¡Superchefs en Acción!</span></strong></p>\n<p><strong><span style=\"color: #3598db;\">¡¡Es el momento de demostrar lo que hemos aprendido!!</span></strong></p>\n<p><strong><span style=\"color: #b96ad9;\">¡El Certificado de SUPER CHEFS! 🧑‍🍳</span></strong></p>\n<p>Organizaremos un <span style=\"color: #b96ad9;\"><strong>coloquio en grupo </strong></span>en el que compartiremos distintas ideas de recetas saludables, procurando aportar <span style=\"color: #000000;\"><em><strong>propuestas variadas sin repetir,</strong> </em></span>que luego serán compartidas en TEAMS, a modo de <span style=\"color: #b96ad9;\"><strong>recetario online</strong></span>, con el resto de compañeros. Durante la conversación, también reflexionaremos sobre la importancia de calcular y medir con precisión las cantidades de los ingredientes, ya que esto influye tanto en el resultado final de la receta como en el equilibrio nutricional de los platos. Finalmente, cada alumno realizará su receta, se grabará realizándola y, si supera dicho reto, recibirá un diploma de<strong><span style=\"color: #e03e2d;\"> \"SUPER CHEF\".</span></strong></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip37.jpg\" /></p>\n<p><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL·E 3</span></p>\n<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #b96ad9;\">¡¡Ánimo chefs!!</span></strong></span></p>\n<p>En este proyecto, el alumnado de Cuarto de Primaria trabajará contenidos clave para su <strong><span style=\"color: #3598db;\">desarrollo global,</span></strong> destacando la presencia de las matemáticas en la cocina. Se llevará a cabo en un entorno de <strong><span style=\"color: #3598db;\">aprendizaje activo y significativo</span>,</strong> utilizando metodologías diversas que promueven la <span style=\"color: #b96ad9;\"><strong>participación de todos </strong><span style=\"color: #000000;\">y la </span><strong>inclusión.</strong></span> La evaluación será continua y se apoyará en distintos instrumentos con el fin de obtener una visión completa del progreso y aprendizaje de cada estudiante.</p>\n<p>Para valorar las actividades y tareas desarrolladas, se emplearán dos herramientas: <span style=\"color: #2dc26b;\"><strong>una rúbrica y una diana de evaluación</strong></span>, que el alumnado deberá completar en su cuaderno. Estas permitirán analizar tanto sus destrezas prácticas como su grado de implicación y su capacidad de reflexión sobre lo aprendido.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a3-5cj4bponz</odePageId>
+  <odeParentPageId>page-mot3m1a2-r8bo3u2x9</odeParentPageId>
+  <pageName>6.1 Rúbrica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1 Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1 Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a3-5cj4bponz</odePageId>
+      <odeBlockId>block-1777913489423-vugwfcht9</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a3-5cj4bponz</odePageId>
+          <odeBlockId>block-1777913489423-vugwfcht9</odeBlockId>
+          <odeIdeviceId>idevice-1777913489421-quubrigzv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong><span style="color: #b96ad9;">Rúbricas de evaluación</span></strong></span></p>
+<p>Esta<strong> <span style="color: #3598db;">rúbrica </span></strong>se utilizará durante las <span style="color: #2dc26b;"><strong>grabaciones en vídeo</strong><span style="color: #000000;">,</span></span><span style="color: #000000;"> </span><span style="color: #2dc26b;"><span style="color: #000000;">realizando la receta;</span> </span>recopilándose así las observaciones del trabajo del alumnado. Los datos se registrarán en una hoja de seguimiento, permitiendo hacer un análisis detallado de la expresión oral y el trabajo realizado. </p>
+<p>De esta forma, el alumnado será evaluado en función de las observaciones hechas por el docente durante la explicaciones de los pasos llevados a cabo en la elaboración de la receta. </p>
+<p>Se espera que la rúbrica ofrezca una visión clara del desarrollo individual del alumnado, destacando áreas de mejora y puntos fuertes. Más allá de la calificación, los resultados permitirán ajustar las actividades en función del progreso colectivo, favoreciendo la creación de estrategias de intervención en caso de detectar aspectos donde los alumnos necesiten refuerzo.</p>
+<p><span style="color: #b96ad9;"><span style="color: #000000;">A continuación</span><strong> </strong></span>puedes ver la <strong><span style="color: #b96ad9;">rúbrica de evaluación: </span></strong></p>
+<p><img src="{{context_path}}/content/resources/mceclip36.png" /></p>
+<p><span style="color: #f1c40f;">Rúbrica creada por la autora con EXCEL. </span></p>
+<p>Cada uno de estos criterios se evaluará en una escala de cinco niveles ―de insuficiente a sobresaliente―, permitiendo una valoración precisa del progreso del alumno en cada aspecto. La rúbrica estará a disposición del alumnado antes, durante y después de la grabación del vídeo. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777913489421-quubrigzv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #b96ad9;\">Rúbricas de evaluación</span></strong></span></p>\n<p>Esta<strong> <span style=\"color: #3598db;\">rúbrica </span></strong>se utilizará durante las <span style=\"color: #2dc26b;\"><strong>grabaciones en vídeo</strong><span style=\"color: #000000;\">,</span></span><span style=\"color: #000000;\"> </span><span style=\"color: #2dc26b;\"><span style=\"color: #000000;\">realizando la receta;</span> </span>recopilándose así las observaciones del trabajo del alumnado. Los datos se registrarán en una hoja de seguimiento, permitiendo hacer un análisis detallado de la expresión oral y el trabajo realizado. </p>\n<p>De esta forma, el alumnado será evaluado en función de las observaciones hechas por el docente durante la explicaciones de los pasos llevados a cabo en la elaboración de la receta. </p>\n<p>Se espera que la rúbrica ofrezca una visión clara del desarrollo individual del alumnado, destacando áreas de mejora y puntos fuertes. Más allá de la calificación, los resultados permitirán ajustar las actividades en función del progreso colectivo, favoreciendo la creación de estrategias de intervención en caso de detectar aspectos donde los alumnos necesiten refuerzo.</p>\n<p><span style=\"color: #b96ad9;\"><span style=\"color: #000000;\">A continuación</span><strong> </strong></span>puedes ver la <strong><span style=\"color: #b96ad9;\">rúbrica de evaluación: </span></strong></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip36.png\" /></p>\n<p><span style=\"color: #f1c40f;\">Rúbrica creada por la autora con EXCEL. </span></p>\n<p>Cada uno de estos criterios se evaluará en una escala de cinco niveles ―de insuficiente a sobresaliente―, permitiendo una valoración precisa del progreso del alumno en cada aspecto. La rúbrica estará a disposición del alumnado antes, durante y después de la grabación del vídeo. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a3-w3hz4jesy</odePageId>
+  <odeParentPageId>page-mot3m1a2-r8bo3u2x9</odeParentPageId>
+  <pageName>6.2 Dianas de autoevaluación y coevaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.2 Dianas de autoevaluación y coevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.2 Dianas de autoevaluación y coevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.2 Dianas de autoevaluación y coevaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a3-w3hz4jesy</odePageId>
+      <odeBlockId>block-1777915474008-oq293t698</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a3-w3hz4jesy</odePageId>
+          <odeBlockId>block-1777915474008-oq293t698</odeBlockId>
+          <odeIdeviceId>idevice-1777915474005-j4v2bsm5e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;"><strong><span style="color: #b96ad9;">Dianas de autoevaluación y coevaluación</span></strong></span></p>
+<p>Este instrumento se usará al <strong><span style="color: #3598db;">final del proyecto,</span></strong> tras una breve reflexión guiada sobre lo aprendido en cada área. Cada alumno recibirá una fotocopia de las dianas y se le pedirá que coloree los distintos apartados. Los alumnos completarán la diana de forma individual y en un ambiente de apoyo, compartiendo luego sus reflexiones en grupo. </p>
+<p> La diana permitirá identificar patrones comunes en las actitudes y hábitos del grupo, generando datos valiosos sobre el impacto del proyecto en la conciencia de los alumnos respecto a la presencia de las matemáticas en la cocina. Este análisis se utilizará para orientar futuras intervenciones pedagógicas y para reforzar aspectos del proyecto en próximas unidades.</p>
+<p>A continuación se muestras las <span style="color: #b96ad9;"><strong title=""><span style="font-size: 18pt;"><a href="https://canva.link/78so0tqcu22ezqy">dos dianas</a></span>:</strong></span><em><span style="color: #3598db;"> <span style="color: #b96ad9;"><strong>autoevaluación y coevaluación.</strong></span></span></em></p>
+<p><img src="{{context_path}}/content/resources/mceclip38.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip39.png" /></p>
+<p><span style="color: #f1c40f;">Dianas creadas por la autora con Canva</span></p>
+<p>A partir de las dianas de autoevaluación y coevaluación, el objetivo con el alumnado va más allá de “poner una nota”. Está claramente orientado a <strong><span style="color: #b96ad9;">desarrollar competencias de reflexión, participación y mejora continua.</span></strong></p>
+<p>🎯<strong><span style="color: #e03e2d;"> OBJETIVO DE ESTAS DIANAS CON EL ALUMNADO</span></strong><br />El uso de las dianas de autoevaluación y coevaluación tiene como finalidad que el alumnado reflexione sobre su propio aprendizaje y el de sus compañeros, valorando distintos aspectos del trabajo realizado durante el proyecto. </p>
+<p>En resumen, a través de ellas se pretende:</p>
+<p>- Desarrollar la capacidad de autoevaluarse y coevaluar de forma crítica y constructiva.</p>
+<p>- Tomar conciencia del propio proceso de aprendizaje, identificando logros y aspectos a mejorar.</p>
+<p>- Fomentar el esfuerzo y la responsabilidad, dando importancia al proceso y no solo al resultado (“mi mejor esfuerzo siempre cuenta”).</p>
+<p>- Mejorar la comprensión de los contenidos, como la capacidad, masa y conversión de unidades, aplicándolos a situaciones reales.</p>
+<p>- Promover hábitos de trabajo adecuados, como la atención, el orden, la constancia y la finalización de tareas.</p>
+<p>- Impulsar habilidades sociales, como el trabajo en equipo y el respeto hacia el trabajo de los demás.</p>
+<p>- Favorecer la evaluación formativa, permitiendo al docente recoger información para ajustar la enseñanza.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915474005-j4v2bsm5e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #b96ad9;\">Dianas de autoevaluación y coevaluación</span></strong></span></p>\n<p>Este instrumento se usará al <strong><span style=\"color: #3598db;\">final del proyecto,</span></strong> tras una breve reflexión guiada sobre lo aprendido en cada área. Cada alumno recibirá una fotocopia de las dianas y se le pedirá que coloree los distintos apartados. Los alumnos completarán la diana de forma individual y en un ambiente de apoyo, compartiendo luego sus reflexiones en grupo. </p>\n<p> La diana permitirá identificar patrones comunes en las actitudes y hábitos del grupo, generando datos valiosos sobre el impacto del proyecto en la conciencia de los alumnos respecto a la presencia de las matemáticas en la cocina. Este análisis se utilizará para orientar futuras intervenciones pedagógicas y para reforzar aspectos del proyecto en próximas unidades.</p>\n<p>A continuación se muestras las <span style=\"color: #b96ad9;\"><strong title=\"\"><span style=\"font-size: 18pt;\"><a href=\"https://canva.link/78so0tqcu22ezqy\">dos dianas</a></span>:</strong></span><em><span style=\"color: #3598db;\"> <span style=\"color: #b96ad9;\"><strong>autoevaluación y coevaluación.</strong></span></span></em></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip38.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip39.png\" /></p>\n<p><span style=\"color: #f1c40f;\">Dianas creadas por la autora con Canva</span></p>\n<p>A partir de las dianas de autoevaluación y coevaluación, el objetivo con el alumnado va más allá de “poner una nota”. Está claramente orientado a <strong><span style=\"color: #b96ad9;\">desarrollar competencias de reflexión, participación y mejora continua.</span></strong></p>\n<p>🎯<strong><span style=\"color: #e03e2d;\"> OBJETIVO DE ESTAS DIANAS CON EL ALUMNADO</span></strong><br />El uso de las dianas de autoevaluación y coevaluación tiene como finalidad que el alumnado reflexione sobre su propio aprendizaje y el de sus compañeros, valorando distintos aspectos del trabajo realizado durante el proyecto. </p>\n<p>En resumen, a través de ellas se pretende:</p>\n<p>- Desarrollar la capacidad de autoevaluarse y coevaluar de forma crítica y constructiva.</p>\n<p>- Tomar conciencia del propio proceso de aprendizaje, identificando logros y aspectos a mejorar.</p>\n<p>- Fomentar el esfuerzo y la responsabilidad, dando importancia al proceso y no solo al resultado (“mi mejor esfuerzo siempre cuenta”).</p>\n<p>- Mejorar la comprensión de los contenidos, como la capacidad, masa y conversión de unidades, aplicándolos a situaciones reales.</p>\n<p>- Promover hábitos de trabajo adecuados, como la atención, el orden, la constancia y la finalización de tareas.</p>\n<p>- Impulsar habilidades sociales, como el trabajo en equipo y el respeto hacia el trabajo de los demás.</p>\n<p>- Favorecer la evaluación formativa, permitiendo al docente recoger información para ajustar la enseñanza.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a3-udbnrki6w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Conclusión</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Conclusión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Conclusión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Conclusión</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a3-udbnrki6w</odePageId>
+      <odeBlockId>block-1777660517943-7pebsho7k</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a3-udbnrki6w</odePageId>
+          <odeBlockId>block-1777660517943-7pebsho7k</odeBlockId>
+          <odeIdeviceId>idevice-1777660517941-m1bqd3hns</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto se centra en el aprendizaje de las <strong><span style="color: #b96ad9;">unidades de medida de capacidad y masa </span></strong>a través de una propuesta práctica cuyo producto final consiste en la <strong><span style="color: #b96ad9;">elaboración de una receta </span></strong>y la <strong><span style="color: #b96ad9;">grabación de un vídeo</span></strong> para compartirlo con todos los compañeros. Se trata de una actividad altamente motivadora y divertida, que conecta directamente con la vida cotidiana del alumnado.</p>
+<p>Utilizando una <strong><span style="color: #b96ad9;">metodología activa y adaptada a la diversidad del aula</span></strong>. Con las <strong><span style="color: #b96ad9;">dinámicas cooperativas </span></strong>como el folio giratorio y el 1-2-4 favoreció el trabajo conjunto, la reflexión compartida y el intercambio de ideas entre el alumnado. Mi papel como guía del proceso permitió que cada estudiante se sintiera reconocido, implicado y partícipe de su propio aprendizaje.</p>
+<p>En definitiva, esta experiencia educativa no solo permitió afianzar los contenidos relacionados con las unidades de capacidad y masa, sino que también contribuyó al <span style="color: #b96ad9;"><strong>desarrollo de competencias clave como el trabajo en equipo, la organización y la comunicación.</strong></span></p>
+<p>La aplicación de <span style="color: #b96ad9;"><strong>estrategias inclusivas</strong></span>, como la distribución de roles concretos dentro de los grupos, favoreció una participación más equilibrada y permitió que todo el alumnado, con independencia de sus características o capacidades, desempeñara un papel significativo en su propio aprendizaje.</p>
+<p>Asimismo, las actividades prácticas como los <span style="color: #b96ad9;"><strong>Kahoots</strong></span>, la búsqueda de platos saludables y la elaboración de recetas, no solo aumentaron la motivación y el interés del alumnado, sino que también facilitaron la comprensión de conceptos más abstractos al vincularlos con experiencias reales y cercanas, como es el hecho de cocinar.</p>
+<p>El <span style="color: #b96ad9;"><strong>carácter interdisciplinar</strong></span> del proyecto favorece un aprendizaje globalizado, integrando matemáticas (medidas), conocimiento del medio (transformaciones de los alimentos y alimentación saludable), lengua (comprensión y elaboración de recetas) y educación artística (diseño visual y presentación del recetario y del vídeo).</p>
+<p>El diseño de este proyecto se basa en las conclusiones obtenidas en la rutina de pensamiento de la tarea 1.1, que consistió en la realización de un Kahoot centrado en las unidades de medida de masa y capacidad. El nivel seleccionado, <strong><span style="color: #b96ad9;">4º de Educación Primaria,</span></strong> es adecuado, ya que en este curso se introducen y consolidan de manera más sistemática las magnitudes de capacidad y masa, siendo fundamental afianzar estos contenidos mediante experiencias prácticas y significativas.</p>
+<p>La temporalización permite un desarrollo progresivo del aprendizaje, comenzando con la exploración de ideas previas (Kahoot), continuando con actividades guiadas de práctica y culminando en un producto final relevante y motivador.</p>
+<p>Además, el proyecto fomenta la<span style="color: #b96ad9;"><strong> implicación de las familias</strong></span>, ya que la elaboración de la receta y su grabación en vídeo deben realizarse en casa, fortaleciendo así el <span style="color: #b96ad9;"><strong>vínculo entre el entorno familiar y el escolar.</strong></span></p>
+<p><img src="{{context_path}}/content/resources/mceclip11.jpg" /><span style="color: #f1c40f;">Imagen creada por la autora con DALL·E 3</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777660517941-m1bqd3hns","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto se centra en el aprendizaje de las <strong><span style=\"color: #b96ad9;\">unidades de medida de capacidad y masa </span></strong>a través de una propuesta práctica cuyo producto final consiste en la <strong><span style=\"color: #b96ad9;\">elaboración de una receta </span></strong>y la <strong><span style=\"color: #b96ad9;\">grabación de un vídeo</span></strong> para compartirlo con todos los compañeros. Se trata de una actividad altamente motivadora y divertida, que conecta directamente con la vida cotidiana del alumnado.</p>\n<p>Utilizando una <strong><span style=\"color: #b96ad9;\">metodología activa y adaptada a la diversidad del aula</span></strong>. Con las <strong><span style=\"color: #b96ad9;\">dinámicas cooperativas </span></strong>como el folio giratorio y el 1-2-4 favoreció el trabajo conjunto, la reflexión compartida y el intercambio de ideas entre el alumnado. Mi papel como guía del proceso permitió que cada estudiante se sintiera reconocido, implicado y partícipe de su propio aprendizaje.</p>\n<p>En definitiva, esta experiencia educativa no solo permitió afianzar los contenidos relacionados con las unidades de capacidad y masa, sino que también contribuyó al <span style=\"color: #b96ad9;\"><strong>desarrollo de competencias clave como el trabajo en equipo, la organización y la comunicación.</strong></span></p>\n<p>La aplicación de <span style=\"color: #b96ad9;\"><strong>estrategias inclusivas</strong></span>, como la distribución de roles concretos dentro de los grupos, favoreció una participación más equilibrada y permitió que todo el alumnado, con independencia de sus características o capacidades, desempeñara un papel significativo en su propio aprendizaje.</p>\n<p>Asimismo, las actividades prácticas como los <span style=\"color: #b96ad9;\"><strong>Kahoots</strong></span>, la búsqueda de platos saludables y la elaboración de recetas, no solo aumentaron la motivación y el interés del alumnado, sino que también facilitaron la comprensión de conceptos más abstractos al vincularlos con experiencias reales y cercanas, como es el hecho de cocinar.</p>\n<p>El <span style=\"color: #b96ad9;\"><strong>carácter interdisciplinar</strong></span> del proyecto favorece un aprendizaje globalizado, integrando matemáticas (medidas), conocimiento del medio (transformaciones de los alimentos y alimentación saludable), lengua (comprensión y elaboración de recetas) y educación artística (diseño visual y presentación del recetario y del vídeo).</p>\n<p>El diseño de este proyecto se basa en las conclusiones obtenidas en la rutina de pensamiento de la tarea 1.1, que consistió en la realización de un Kahoot centrado en las unidades de medida de masa y capacidad. El nivel seleccionado, <strong><span style=\"color: #b96ad9;\">4º de Educación Primaria,</span></strong> es adecuado, ya que en este curso se introducen y consolidan de manera más sistemática las magnitudes de capacidad y masa, siendo fundamental afianzar estos contenidos mediante experiencias prácticas y significativas.</p>\n<p>La temporalización permite un desarrollo progresivo del aprendizaje, comenzando con la exploración de ideas previas (Kahoot), continuando con actividades guiadas de práctica y culminando en un producto final relevante y motivador.</p>\n<p>Además, el proyecto fomenta la<span style=\"color: #b96ad9;\"><strong> implicación de las familias</strong></span>, ya que la elaboración de la receta y su grabación en vídeo deben realizarse en casa, fortaleciendo así el <span style=\"color: #b96ad9;\"><strong>vínculo entre el entorno familiar y el escolar.</strong></span></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip11.jpg\" /><span style=\"color: #f1c40f;\">Imagen creada por la autora con DALL·E 3</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot3m1a3-4xnryd24j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot3m1a3-4xnryd24j</odePageId>
+      <odeBlockId>block-1777660348456-1d9js57m1</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot3m1a3-4xnryd24j</odePageId>
+          <odeBlockId>block-1777660348456-1d9js57m1</odeBlockId>
+          <odeIdeviceId>idevice-1777660348455-x65k9sdjn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Recetas con ciencia: gramos, litros y diversión.</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Un proyecto educativo diseñado para enseñar a alumnos de Cuarto de Primaria sobre las unidades de medida de capacidad y masa, aprender a medir con instrumentos cotidianos y comprender textos instructivos como las recetas. 
+Palabras Claves: masa, capacidad, educación primaria, cocina, recetas.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Mª Teresa Lamas Delgado</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non derived work - non commercial 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
